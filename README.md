@@ -26,4 +26,7 @@ Kamu bisa melihat contoh project URL Shortener Microservice dari freeCodeCamp di
 Kamu bisa melakukan testing langsung di [URL Shortener Microservice Testing](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/url-shortener-microservice).  
 
 
-### Selamat ngoding! 💻 🧠
+### Selamat ngoding! 💻 🧠  
+
+
+[***Next Project - [4/5] Exercise Tracker***](https://github.com/dipintoo/freeCodeCamp_Exercise-Tracker)
