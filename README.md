@@ -1,6 +1,10 @@
 # [3/5] URL Shortener Microservice
 
-**SELAMAT** ya kamu sudah berhasil menyelesaikan project kedua [Request Header Parser Microservice](https://github.com/dipintoo/freeCodeCamp_Headers-Parser/tree/main). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript (NodeJs) yang secara fungsional mirip dengan contoh project berikut ini: https://url-shortener-microservice.freecodecamp.rocks/
+**SELAMAT** ya kamu sudah berhasil menyelesaikan project kedua [Request Header Parser Microservice](https://github.com/dipintoo/freeCodeCamp_Headers-Parser/tree/main). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun sebuah API Node.js yang dapat mempersingkat URL dan menggunakan MongoDB untuk menyimpan URL yang telah disingkat tersebut. API yang kamu buat ini akan mengembalikan respons JSON dengan properti URL asli dan URL pendek, serta mengarahkan pengguna ke URL asli saat mereka mengunjungi URL pendek tersebut.
+
+## Contoh Project
+
+Kamu bisa melihat contoh project URL Shortener Microservice dari freeCodeCamp di https://url-shortener-microservice.freecodecamp.rocks/
 
 ## Persiapan
 
