@@ -1,6 +1,6 @@
 # [3/5] URL Shortener Microservice
 
-**Selamat** ya kamu sudah berhasil menyelesaikan project kedua [Request Header Parser Microservice](https://github.com/dipintoo/freeCodeCamp_Headers-Parser/tree/main). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript (NodeJs) yang secara fungsional mirip dengan contoh project berikut ini: https://url-shortener-microservice.freecodecamp.rocks/
+**SELAMAT** ya kamu sudah berhasil menyelesaikan project kedua [Request Header Parser Microservice](https://github.com/dipintoo/freeCodeCamp_Headers-Parser/tree/main). Sekarang kita lanjut ke project ketiga dari lima project yang harus kamu selesaikan dan lolos test untuk bisa meraih sertifikasi [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/) dari freeCodeCamp!. Kamu akan membangun aplikasi JavaScript (NodeJs) yang secara fungsional mirip dengan contoh project berikut ini: https://url-shortener-microservice.freecodecamp.rocks/
 
 ## Persiapan
 
