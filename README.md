@@ -10,7 +10,7 @@ Kamu bisa melihat contoh project URL Shortener Microservice dari freeCodeCamp di
 
 ## Persiapan
 
-- Gunakan [Project Awal Replit](https://replit.com/github/freeCodeCamp/boilerplate-project-timestamp) dari freeCodeCamp ini sebagai template.
+- Gunakan [Project Awal Replit](https://replit.com/github/freeCodeCamp/boilerplate-project-urlshortener) dari freeCodeCamp ini sebagai template.
 - Setelah muncul jendela ***Import from Github***, kamu bisa klik saja tombol `Import from GitHub`.
 - Selanjutnya akan muncul jendela ***.replit***, kamu pilih `Use run command` lalu klik `Done`.
 - Pada sidebar sebelah kiri, kamu akan melihat semua file yang berhasil kamu import tadi. Pilih `index.js` lalu kerjakan project kamu di dalamnya.
